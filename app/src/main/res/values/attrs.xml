@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <declare-styleable name="CapTextView">
+        <attr name="capTextSize" format="dimension" />
+        <attr name="capTextColor" format="color" />
+
+        <attr name="capsDropNumber" format="integer" />
+        <attr name="capFont" format="reference" />
+
+        <attr name="bodyTextSize" format="dimension" />
+        <attr name="bodyTextColor" format="color" />
+        <attr name="bodyTextFont" format="reference" />
+
+        <attr name="isCapText" format="boolean" />
+
+        <attr name="android:text" />
+    </declare-styleable>
+
+</resources>
