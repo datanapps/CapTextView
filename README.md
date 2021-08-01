@@ -58,10 +58,18 @@ A user interface element that displays text to the user.
   
   
    fun setCapTextFont(@NonNull fontId:Int)
+   
    fun setCapTextAttrColor(@NonNull color:Int)
+   
    fun setBodyTextFont(@NonNull fontId:Int)
+   
    fun setHtmlText(text: String, isCapText:Boolean)
+   
    fun setHtmlText(text: String)
+   
    fun setTextScale(sizeInPx: Int)
+   
+   
     -----------------------------
+    
 Hope it will help. Thanks
