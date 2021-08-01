@@ -4,7 +4,7 @@
 
 
 
-    <dimen name="cap_text_size">40sp</dimen>
+    <dimen name="cap_text_size">45sp</dimen>
     <dimen name="body_text_size">18sp</dimen>
 
     <dimen name="dp_4">4dp</dimen>

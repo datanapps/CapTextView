@@ -9,7 +9,7 @@
         android:id="@+id/tv_body"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-
+android:layout_marginTop="15dp"
         android:textColor="?android:attr/textColorPrimary"
         android:textSize="@dimen/body_text_size"
         android:textColorLink="@color/purple_200"
@@ -43,8 +43,8 @@
         android:gravity="top"
         android:padding="5dp"
         android:includeFontPadding="false"
-        android:textColor="?android:attr/textColorPrimary"
         android:textSize="@dimen/cap_text_size"
+        tool:text="T"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         />
